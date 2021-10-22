@@ -18,7 +18,7 @@
     margin: 170px 258px 130px 258px;
     display: grid;
     grid-template-columns: 307px 307px 307px;
-    background-color: var(--ligt_gray);
+    background-color: var(--paragraph_color);
     grid-template-areas: "card1 card2 card3";
 }
 .main_screen img{
